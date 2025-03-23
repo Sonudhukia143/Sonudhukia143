@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sonudhukia143
 - 👀 I’m interested in web development and building robust and scalable websites.
 - 🌱 I’m currently learning Next.js and typescript.
-- 💞️ I
+- 💞️ I love to code and think.
 - 📫 jagdishdhukia770@gmail.com
 - 😄 He/Him/His
 - ⚡ One rule I follow if code is working don't touch it even if you don't understand how it work.
