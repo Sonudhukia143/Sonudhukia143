@@ -44,11 +44,11 @@
 > A fully functional Next.js and Tailwind Css based refrence website.
 > Features: Great SEO and fully optimized images and layouts
 
-#### 📚 [Flashcard Learning App](https://github.com/Sonudhukia143/Portfolio)
+#### 📚 [3d Portfolio](https://github.com/Sonudhukia143/Portfolio)
 > Built with Three.js and react-three-fiber.
 > Fully responsive and has great animations
 
-#### 📊 [Tax Calculation Portal (First Full Stack Project)](https://github.com/Sonudhukia143/YelpCamp)
+#### 📊 [YelpCamp (First Full Stack Project)](https://github.com/Sonudhukia143/YelpCamp)
 > Features like adding campgrounds and aut. Built in Ejs + Express and designed in bootstrap.
 
 ---
