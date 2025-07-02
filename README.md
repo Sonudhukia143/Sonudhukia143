@@ -12,9 +12,9 @@
 ### 🌍 About Me
 
 - 👨‍💻 I'm a passionate **Full Stack Developer** from **India** who loves to build scalable, performant web apps.
-- 🧠 Currently expanding my skills in **Web3, TypeScript, and DevOps**
+- 🧠 Currently expanding my skills in **MERN, TypeScript, and App Development**
 - 🚀 Founder of **Maisen Monde** – A Real Estate Web Platform built with MERN
-- 📬 Reach me at: **sonudhukia143@gmail.com**
+- 📬 Reach me at: **jagdishdhukia770@gmail.co**
 - 🎯 Always open for **collaboration, freelance projects, and internships**
 - ✍️ Actively sharing my journey on GitHub & dev communities
 
