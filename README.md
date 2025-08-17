@@ -24,7 +24,7 @@
 
 #### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,redux,tailwind,docker,trpc,inngest" />
 </p>
 
 #### 🧰 Tools & Platforms
