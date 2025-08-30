@@ -101,6 +101,15 @@
 
 ---
 
+---
+
+### 🌟 Open Source Contributions
+
+- ✅ [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)  
+  - PR [#61989](https://github.com/freeCodeCamp/freeCodeCamp/pull/61989): *fix(curriculum): correct spelling 'mangers' → 'managers'* (Merged 🎉)
+
+---
+
 ### 📅 Weekly Dev Breakdown
 
 <!--START_SECTION:waka-->
