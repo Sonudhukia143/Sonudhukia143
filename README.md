@@ -106,7 +106,9 @@
 ### 🌟 Open Source Contributions
 
 - ✅ [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)  
-  - PR [#61989](https://github.com/freeCodeCamp/freeCodeCamp/pull/61989): *fix(curriculum): correct spelling 'mangers' → 'managers'* (Merged 🎉)
+  - PR [#61989](https://github.com/freeCodeCamp/freeCodeCamp/pull/61989): *fix(curriculum): correct spelling 'mangers' → 'managers'* (Merged 🎉)  
+  - PR [#62007](https://github.com/freeCodeCamp/freeCodeCamp/pull/62007): *fix(api): cleanup props from get-public-profile endpoint* (Merged 🎉)  
+    > Removed deprecated properties (`partiallyCompletedChallenges`, `savedChallenges`) from `/get-public-profile` endpoint, improving API performance and security.
 
 ---
 
