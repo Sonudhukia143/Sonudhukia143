@@ -13,8 +13,8 @@
 
 - 👨‍💻 I'm a passionate **Human** from **India** who loves nothing.
 - 📬 Reach me at: **sonudhukia151@gmail.com**
-- 🎯 Always open for **collaboration, freelance projects, and internships**
-- ✍️ Actively sharing my journey on GitHub & dev communities
+- 🎯 Always open for **collaboration**
+- ✍️ Active
 
 ---
 
@@ -22,12 +22,12 @@
 
 #### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=brain" />
+  ChatGPT
 </p>
 
 #### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=chatgpt" />
+   Mind
 </p>
 
 ---
@@ -50,9 +50,7 @@
 
 ### 📌 Fun Facts
 
-- 🧩 I enjoy building things from scratch and understanding how things work.
-- 🏏 Cricket Enthusiast & Night Owl Coder 🌙
-- 🎧 Often found debugging with Lo-Fi music
+- 🧩 I enjoy something sometime but not sometimes.
 
 ---
 
@@ -61,9 +59,6 @@
 ### 🌟 Open Source Contributions
 
 - ✅ [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)  
-  - PR [#61989](https://github.com/freeCodeCamp/freeCodeCamp/pull/61989): *fix(curriculum): correct spelling 'mangers' → 'managers'* (Merged 🎉)  
-  - PR [#62007](https://github.com/freeCodeCamp/freeCodeCamp/pull/62007): *fix(api): cleanup props from get-public-profile endpoint* (Merged 🎉)  
-    > Removed deprecated properties (`partiallyCompletedChallenges`, `savedChallenges`) from `/get-public-profile` endpoint, improving API performance and security.
 
 ---
 
@@ -72,4 +67,4 @@
 <!--START_SECTION:waka-->
 <!-- Replace with actual WakaTime or use GitHub Action -->
 ```text
-Coming soon: Integrated time breakdown using WakaTime!
+Coming soon: World War Enjoy Before You Die!
