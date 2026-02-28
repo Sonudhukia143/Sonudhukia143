@@ -4,7 +4,7 @@
 <h3 align="center">Clumsy</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;React+%2B+Node+Lover;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Reckless;" alt="Typing SVG" />
 </p>
 
 ---
