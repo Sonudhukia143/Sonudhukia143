@@ -32,7 +32,6 @@
 
 ---
 
-### 🚀 Projects Worth Noting
 
 #### 🏠 Working at Krafzen at something, just another MVP that might just need a little time to be launched as always.
 ---
